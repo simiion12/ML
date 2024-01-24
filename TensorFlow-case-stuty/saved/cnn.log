@@ -1,0 +1,4 @@
+loss_function,sparse_categorical_crossentropy
+optimizer,adam
+test_loss,0.2758729159832001
+test_acc,0.9004999995231628
