@@ -1,0 +1,5 @@
+matplotlib
+flask
+pandas
+scikit-learn >= 0.24
+requests
